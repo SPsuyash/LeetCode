@@ -21,3 +21,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SPsuyash/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
