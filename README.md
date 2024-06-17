@@ -25,10 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0234-palindrome-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0234-palindrome-linked-list) |
 # Math
 |  |
 | ------- |
@@ -36,8 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/SPsuyash/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/SPsuyash/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0234-palindrome-linked-list) |
