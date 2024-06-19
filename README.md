@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SPsuyash/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SPsuyash/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPsuyash/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/SPsuyash/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SPsuyash/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Stack
 |  |
 | ------- |
