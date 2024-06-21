@@ -31,9 +31,9 @@ public:
          {
             if(j==ans-1)
             {
-                ListNode* todelete = temp->next;
+                // ListNode* todelete = temp->next;
                 temp->next=temp->next->next;
-                delete todelete;
+                // delete todelete;
             }
             j++;
             temp=temp->next;
