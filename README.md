@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/SPsuyash/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SPsuyash/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SPsuyash/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SPsuyash/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/SPsuyash/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/SPsuyash/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SPsuyash/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SPsuyash/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SPsuyash/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/SPsuyash/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SPsuyash/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SPsuyash/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 # Divide and Conquer
 |  |
 | ------- |
