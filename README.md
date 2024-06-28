@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SPsuyash/LeetCode/tree/master/0204-count-primes) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SPsuyash/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SPsuyash/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPsuyash/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SPsuyash/LeetCode/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/SPsuyash/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Two Pointers
 |  |
@@ -78,3 +80,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SPsuyash/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SPsuyash/LeetCode/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SPsuyash/LeetCode/tree/master/0204-count-primes) |
