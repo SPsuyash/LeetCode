@@ -3,9 +3,10 @@ public:
     int singleNumber(vector<int>& nums) {
         map<int,int>ans;
         int a;
-        for(auto it:nums)
+        int n=nums.size();
+        for(int i=0;i<n;i++)
         {
-            ans[it]++;
+            ans[nums[i]]++;
         }
         for(auto it:ans){
             if((it.second)<3)
