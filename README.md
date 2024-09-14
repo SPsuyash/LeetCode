@@ -101,12 +101,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPsuyash/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/SPsuyash/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SPsuyash/LeetCode/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPsuyash/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPsuyash/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
