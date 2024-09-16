@@ -152,4 +152,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPsuyash/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SPsuyash/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SPsuyash/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
