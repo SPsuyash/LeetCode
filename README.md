@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/SPsuyash/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/SPsuyash/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SPsuyash/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SPsuyash/LeetCode/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SPsuyash/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/SPsuyash/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SPsuyash/LeetCode/tree/master/0190-reverse-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
