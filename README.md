@@ -201,10 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SPsuyash/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SPsuyash/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
@@ -214,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
