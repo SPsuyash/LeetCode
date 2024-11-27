@@ -11,7 +11,7 @@ public:
             ans.push_back(avg);
             i++,j--;
         }
-        double min=DBL_MAX;
+        double min=INT_MAX;
         for(int i=0;i<ans.size();i++)
         {
             if(min>ans[i])
