@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/SPsuyash/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/SPsuyash/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPsuyash/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -121,12 +122,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPsuyash/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/SPsuyash/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SPsuyash/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/SPsuyash/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPsuyash/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SPsuyash/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPsuyash/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -141,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPsuyash/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/SPsuyash/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
