@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SPsuyash/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/SPsuyash/LeetCode/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SPsuyash/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SPsuyash/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SPsuyash/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
