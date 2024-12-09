@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SPsuyash/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/SPsuyash/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SPsuyash/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SPsuyash/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SPsuyash/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SPsuyash/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Stack
 |  |
 | ------- |
