@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SPsuyash/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,12 +174,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/SPsuyash/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SPsuyash/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SPsuyash/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/SPsuyash/LeetCode/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/SPsuyash/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,4 +278,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SPsuyash/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
