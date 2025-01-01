@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SPsuyash/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
 |  |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SPsuyash/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/SPsuyash/LeetCode/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SPsuyash/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SPsuyash/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SPsuyash/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
