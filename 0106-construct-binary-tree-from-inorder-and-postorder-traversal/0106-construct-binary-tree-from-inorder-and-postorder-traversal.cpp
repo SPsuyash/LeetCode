@@ -22,23 +22,22 @@ int find(vector<int>& inorder ,int target , int start , int end)
     }
     return -1;
 }
-TreeNode* Tree(vector<int>& postorder, vector<int>& inorder,int start ,int end, int& index)
+TreeNode* Tree(vector<int>& postorder, vector<int>& inorder,int start ,int end, int index)
 {
     if(start>end)
     {
         return NULL;
     }
-    TreeNode* root=new TreeNode(postorder[index--]);
-    int pos=find(inorder,root->val,start,end);
-     root->right=Tree(postorder,inorder,pos+1,end,index);
-    root->left=Tree(postorder,inorder,start,pos-1,index);
+    TreeNode* root=new TreeNode(postorder[index]);
+    int pos=find(inorder,postorder[index],start,end);
+     root->right=Tree(postorder,inorder,pos+1,end,index-1);
+    root->left=Tree(postorder,inorder,start,pos-1,index-(end-pos)-1);
    
 
     return root;
 }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int n=postorder.size();
-        int index=n-1;
-        return Tree(postorder,inorder,0,n-1,index); 
+        return Tree(postorder,inorder,0,n-1,n-1); 
     }
 };
