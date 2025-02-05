@@ -3,10 +3,6 @@ public:
     bool areAlmostEqual(string s1, string s2) {
         int n=s1.size();
         int m=s2.size();
-        if(n!=m)
-        {
-            return false;
-        }
         
         vector<int> diff;
         
