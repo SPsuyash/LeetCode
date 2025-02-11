@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SPsuyash/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SPsuyash/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/SPsuyash/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SPsuyash/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SPsuyash/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SPsuyash/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SPsuyash/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SPsuyash/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/SPsuyash/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SPsuyash/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SPsuyash/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SPsuyash/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
