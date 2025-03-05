@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/SPsuyash/LeetCode/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/SPsuyash/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/SPsuyash/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
