@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SPsuyash/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3227-find-missing-and-repeated-values](https://github.com/SPsuyash/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/SPsuyash/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3430-count-days-without-meetings](https://github.com/SPsuyash/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
