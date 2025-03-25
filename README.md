@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/SPsuyash/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SPsuyash/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SPsuyash/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3430-count-days-without-meetings](https://github.com/SPsuyash/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SPsuyash/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
 |  |
 | ------- |
