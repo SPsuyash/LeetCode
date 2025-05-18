@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1848-sum-of-unique-elements](https://github.com/SPsuyash/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SPsuyash/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/SPsuyash/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/SPsuyash/LeetCode/tree/master/1500-count-largest-group) |
+| [1848-sum-of-unique-elements](https://github.com/SPsuyash/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SPsuyash/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SPsuyash/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SPsuyash/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/SPsuyash/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1848-sum-of-unique-elements](https://github.com/SPsuyash/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SPsuyash/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SPsuyash/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Matrix
