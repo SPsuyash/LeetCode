@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPsuyash/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SPsuyash/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2902-max-pair-sum-in-an-array](https://github.com/SPsuyash/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SPsuyash/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/SPsuyash/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/SPsuyash/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/SPsuyash/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SPsuyash/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2902-max-pair-sum-in-an-array](https://github.com/SPsuyash/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/SPsuyash/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
