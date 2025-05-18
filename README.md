@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/SPsuyash/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SPsuyash/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/SPsuyash/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SPsuyash/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPsuyash/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/SPsuyash/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/SPsuyash/LeetCode/tree/master/1500-count-largest-group) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SPsuyash/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/SPsuyash/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SPsuyash/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SPsuyash/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPsuyash/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SPsuyash/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SPsuyash/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SPsuyash/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/SPsuyash/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPsuyash/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPsuyash/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SPsuyash/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SPsuyash/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3430-count-days-without-meetings](https://github.com/SPsuyash/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SPsuyash/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
