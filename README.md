@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/SPsuyash/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SPsuyash/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/SPsuyash/LeetCode/tree/master/0948-sort-an-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/SPsuyash/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/SPsuyash/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/SPsuyash/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/SPsuyash/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SPsuyash/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SPsuyash/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SPsuyash/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SPsuyash/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SPsuyash/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SPsuyash/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SPsuyash/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SPsuyash/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SPsuyash/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
@@ -424,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/SPsuyash/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
