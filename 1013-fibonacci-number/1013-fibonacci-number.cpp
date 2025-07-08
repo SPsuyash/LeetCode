@@ -1,34 +1,17 @@
 class Solution {
 public:
-// int recSolve(int n)
-// {
-//     //basecase
-//     if(n==1 || n==0)
-//     {
-//         return n;
-//     }
-
-//     int ans=recSolve(n-1) + recSolve(n-2);
-//     return ans;
-// }
-int topDownSolve(int n, vector<int>& dp)
-{
-    if(n==1 || n==0)
-    {
-        return n;
-    }
-    if(dp[n]!=-1)
-    {
-        return dp[n];
-    }
-     dp[n]=topDownSolve(n-1,dp) + topDownSolve(n-2,dp);
-    return dp[n];
-}
     int fib(int n) {
-
-        //create DP array
-        vector<int>dp(n+1,-1);
-        int ans=topDownSolve(n,dp);
-        return ans;
+        int prev2=0;
+        int prev1=1;
+        if(n==0) return prev2;
+        if(n==1) return prev1;
+        int curr;
+        for(int i=2;i<=n;i++)
+        {
+            curr=prev1+prev2;
+            prev2=prev1;
+            prev1=curr;
+        }
+        return curr;
     }
 };
