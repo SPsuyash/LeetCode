@@ -1,32 +1,34 @@
 class Solution {
 public:
-// int fibn(int n)
+// int recSolve(int n)
 // {
-//     if(n==0)
+//     //basecase
+//     if(n==1 || n==0)
 //     {
-//         return 0;
+//         return n;
 //     }
-//     if(n==1)
-//     {
-//         return 1;
-//     }
-//     else{
-//         return fibn(n-2)+fibn(n-1);
-//     }
+
+//     int ans=recSolve(n-1) + recSolve(n-2);
+//     return ans;
 // }
-    int fib(int n) {
-        // int sum=0;
-        // sum=sum+fibn(n);
-        // return sum;
-        if(n==0) return 0;
-        if(n==1) return 1; 
-        vector<int>dp(n+1,0);
-        dp[0]=0;
-        dp[1]=1;
-        for(int i=2;i<=n;i++)
-        {
-            dp[i]=dp[i-1]+dp[i-2];
-        }
+int topDownSolve(int n, vector<int>& dp)
+{
+    if(n==1 || n==0)
+    {
+        return n;
+    }
+    if(dp[n]!=-1)
+    {
         return dp[n];
+    }
+     dp[n]=topDownSolve(n-1,dp) + topDownSolve(n-2,dp);
+    return dp[n];
+}
+    int fib(int n) {
+
+        //create DP array
+        vector<int>dp(n+1,-1);
+        int ans=topDownSolve(n,dp);
+        return ans;
     }
 };
