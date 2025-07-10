@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/SPsuyash/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SPsuyash/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/SPsuyash/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/SPsuyash/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SPsuyash/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SPsuyash/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SPsuyash/LeetCode/tree/master/0217-contains-duplicate) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SPsuyash/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SPsuyash/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SPsuyash/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/SPsuyash/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/SPsuyash/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/SPsuyash/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/SPsuyash/LeetCode/tree/master/1013-fibonacci-number) |
