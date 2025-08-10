@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SPsuyash/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SPsuyash/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SPsuyash/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/SPsuyash/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/SPsuyash/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SPsuyash/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SPsuyash/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SPsuyash/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SPsuyash/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/SPsuyash/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/SPsuyash/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/SPsuyash/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
