@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SPsuyash/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SPsuyash/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/SPsuyash/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SPsuyash/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SPsuyash/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SPsuyash/LeetCode/tree/master/0137-single-number-ii) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SPsuyash/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SPsuyash/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SPsuyash/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SPsuyash/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SPsuyash/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SPsuyash/LeetCode/tree/master/0152-maximum-product-subarray) |
