@@ -1,20 +1,19 @@
 class Solution {
 public:
+void maxProfitfinder(vector<int>&prices,int i,int& mini,int& maxi){
+    if(i == prices.size()){
+        return;
+    }
+    if(prices[i]<mini) mini=prices[i];
+    int curr=prices[i]-mini;
+    if(curr>maxi) maxi=curr;
+
+    maxProfitfinder(prices,i+1,mini,maxi);
+}
     int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        int min=INT_MAX;
-        int max=INT_MIN;
-        for(int i=0;i<n;i++)
-        {
-            if(min>=prices[i])
-            {
-                min=prices[i];
-            }
-            if(max<=(prices[i]-min))
-            {
-                max=prices[i]-min;
-            }
-        }
-        return max;
+        int mini=INT_MAX;
+        int maxi=INT_MIN;
+        maxProfitfinder(prices,0,mini,maxi);
+        return maxi;
     }
 };
