@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SPsuyash/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SPsuyash/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SPsuyash/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SPsuyash/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/SPsuyash/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/SPsuyash/LeetCode/tree/master/2050-count-good-numbers) |
