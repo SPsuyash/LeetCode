@@ -1,42 +1,56 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+
 class Solution {
 public:
-    ListNode* merge(ListNode* a, ListNode* b) {
-        ListNode* c = new ListNode(-1);
-        ListNode* temp = c;
-        while (a != NULL && b != NULL) {
-            if (a->val <= b->val) {
-                temp->next = a;
-                a = a->next;
-                temp = temp->next;
-            } else {
-                temp->next = b;
-                b = b->next;
-                temp = temp->next;
-            }
-        }
-        if (b) {
-            temp->next = b;
+    // Function to merge two sorted lists
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        if(!l1) return l2;
+        if(!l2) return l1;
+
+        if(l1->val < l2->val) {
+            l1->next = merge(l1->next, l2);
+            return l1;
         } else {
-            temp->next = a;
+            l2->next = merge(l1, l2->next);
+            return l2;
         }
-        return c->next;
     }
-    ListNode* sortList(ListNode* head) {
-        if (head == NULL || head->next == NULL) {
-            return head;
-        }
+
+    // Function to find the middle of the linked list
+    ListNode* getMiddle(ListNode* head) {
         ListNode* slow = head;
-        ListNode* fast = head;
-        while (fast->next != NULL && fast->next->next != NULL) {
+        ListNode* fast = head->next;  // important for splitting
+
+        while(fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* a = head;
-        ListNode* b = slow->next;
-        slow->next = NULL;
-        a = sortList(a);
-        b = sortList(b);
-        ListNode* c = merge(a, b);
-        return c;
+        return slow;
+    }
+
+    ListNode* sortList(ListNode* head) {
+        if(!head || !head->next) return head;
+
+        // Step 1: Find middle
+        ListNode* mid = getMiddle(head);
+        ListNode* right = mid->next;
+        mid->next = nullptr; // Split into 2 halves
+        ListNode* left = head;
+
+        // Step 2: Recursively sort both halves
+        left = sortList(left);
+        right = sortList(right);
+
+        // Step 3: Merge sorted halves
+        return merge(left, right);
     }
 };
