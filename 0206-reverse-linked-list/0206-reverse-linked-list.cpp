@@ -1,16 +1,19 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        // base case: empty or single node
         if (head == nullptr || head->next == nullptr) {
             return head;
         }
-        // recursively reverse the rest
-        ListNode* newHead = reverseList(head->next);
-        // fix links
-        head->next->next = head;
-        head->next = nullptr;
-        
-        return newHead;
+       ListNode* prev=NULL;
+       ListNode* curr=head;
+       ListNode* front=NULL;
+       while(curr!=nullptr)
+       {
+        front=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=front;
+       }
+        return prev;
     }
 };
